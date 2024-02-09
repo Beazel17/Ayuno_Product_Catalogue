@@ -1,32 +1,38 @@
 [
     {
-        "product_name": "Graphite Pencils",
-        "product_description": "Graphite pencils are made of a mixture of graphite and clay, encased in wood. ",
-        "product_price": 99.98,
-        "product_dateAdded": "2024-02-06"
+        "product_name": "Fries",
+        "product_description": "Crispy potato sticks that are deep-fried until golden brown and seasoned with salt or various spices.  ",
+        "product_price": 20.00,
+        "product_dateAdded": "2024-09-07",
+        "product_ExpirationDate" : "Best Before: 25/02/2026"
+
     },
     {
-        "product_name": "Charcoal Sticks",
-        "product_description": " Charcoal sticks are made from burnt wood and come in various forms, including vine and compressed charcoal.",
-        "product_price": 49.44,
-        "product_dateAdded": "2024-04-07"
+        "product_name": "Mango Float",
+        "product_description": "A Filipino dessert made with layers of graham crackers, whipped cream, condensed milk, and ripe mango slices.",
+        "product_price": 150.00,
+        "product_dateAdded": "2024-04-07",
+        "product_ExpirationDate" : "Best Before: 25/03/2027"
     },
     {
-        "product_name": "Colored Pencils",
-        "product_description": " Colored pencils are composed of a pigment core encased in wood. They come in a wide range of colors and can be used for detailed drawing, coloring, and layering.",
-        "product_price": 149.49,
-        "product_dateAdded": "2024-02-08"
+        "product_name": "Grahams de Leche",
+        "product_description": "A dessert similar to mango float but instead of mangoes, it features layers of graham crackers, creamy leche flan (caramel custard), and whipped cream.",
+        "product_price": 120.00,
+        "product_dateAdded": "2024-02-08",
+        "product_ExpirationDate" : "Best Before: 25/07/2029"
     },
     {
-        "product_name": "Pastels (Soft Pastels, Oil Pastels)",
-        "product_description": " Pastels are sticks made from pigment and a binder. Soft pastels have a high pigment concentration and a powdery texture, making them ideal for blending and layering. Oil pastels have a creamy consistency and can be applied thickly or thinly to create vibrant, textured effects.",
-        "product_price": 128.90,
-        "product_dateAdded": "2024-09-08"
+        "product_name": "Creamy Cake",
+        "product_description": "A rich and indulgent cake typically made with layers of moist sponge cake or chiffon cake filled and frosted with creamy icing or frosting. ",
+        "product_price": 130.00,
+        "product_dateAdded": "2024-09-08",
+        "product_ExpirationDate" : "Best Before: 25/08/2025"
     },
     {
-        "product_name": "Ink (Pen and Ink, Brush and Ink)",
-        "product_description": "Ink is a liquid or paste containing pigments or dyes used for drawing and writing. ",
-        "product_price": 58.90,
-        "product_dateAdded": "2024-11-08"
+        "product_name": "Siomai",
+        "product_description": "A type of Chinese dumpling that is popular in many Asian countries, including the Philippines. ",
+        "product_price": 20.00,
+        "product_dateAdded": "2024-11-08",
+        "product_ExpirationDate" : "Best Before: 25/01/2026"
     }
 ]
