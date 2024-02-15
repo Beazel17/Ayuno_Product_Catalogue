@@ -1,38 +1,37 @@
 [
     {
         "product_name": "Fries",
-        "product_description": "Crispy potato sticks that are deep-fried until golden brown and seasoned with salt or various spices.  ",
+        "product_description": "Crispy potato sticks that are deep-fried until golden brown and seasoned with salt or various spices.",
         "product_price": 20.00,
         "product_dateAdded": "2024-09-07",
-        "product_ExpirationDate" : "Best Before: 25/02/2026"
-
+        "product_ExpirationDate": "Best Before: 25/02/2026"
     },
     {
         "product_name": "Mango Float",
         "product_description": "A Filipino dessert made with layers of graham crackers, whipped cream, condensed milk, and ripe mango slices.",
         "product_price": 150.00,
         "product_dateAdded": "2024-04-07",
-        "product_ExpirationDate" : "Best Before: 25/03/2027"
+        "product_ExpirationDate": "Best Before: 25/03/2027"
     },
     {
         "product_name": "Grahams de Leche",
         "product_description": "A dessert similar to mango float but instead of mangoes, it features layers of graham crackers, creamy leche flan (caramel custard), and whipped cream.",
         "product_price": 120.00,
         "product_dateAdded": "2024-02-08",
-        "product_ExpirationDate" : "Best Before: 25/07/2029"
+        "product_ExpirationDate": "Best Before: 25/07/2029"
     },
     {
         "product_name": "Creamy Cake",
-        "product_description": "A rich and indulgent cake typically made with layers of moist sponge cake or chiffon cake filled and frosted with creamy icing or frosting. ",
+        "product_description": "A rich and indulgent cake typically made with layers of moist sponge cake or chiffon cake filled and frosted with creamy icing or frosting.",
         "product_price": 130.00,
         "product_dateAdded": "2024-09-08",
-        "product_ExpirationDate" : "Best Before: 25/08/2025"
+        "product_ExpirationDate": "Best Before: 25/08/2025"
     },
     {
         "product_name": "Siomai",
-        "product_description": "A type of Chinese dumpling that is popular in many Asian countries, including the Philippines. ",
+        "product_description": "A type of Chinese dumpling that is popular in many Asian countries, including the Philippines.",
         "product_price": 20.00,
         "product_dateAdded": "2024-11-08",
-        "product_ExpirationDate" : "Best Before: 25/01/2026"
+        "product_ExpirationDate": "Best Before: 25/01/2026"
     }
 ]
